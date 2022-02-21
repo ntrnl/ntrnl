@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 [![Built with Nix][builtwithnix-badge]][builtwithnix]
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-[![GitHub Issues](https://img.shields.io/github/issues/anfederico/clairvoyant.svg)](https://github.com/ntrnl/ntrnl.github.io/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/anfederico/clairvoyant.svg)](https://github.com/ntrnl/ntrnl/issues)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 [builtwithnix-badge]: https://img.shields.io/badge/builtwith-nix-7d81f7?style=flat-square
 [builtwithnix]: https://builtwithnix.org/
-[downloads-badge]: https://img.shields.io/github/downloads/ntrnl/ntrnl.github.io/total?style=flat-square
+[downloads-badge]: https://img.shields.io/github/downloads/ntrnl/ntrnl/total?style=flat-square
 [releases]: https://github.com/ntrnl/ntrnl.github.io/releases
 
 ---
