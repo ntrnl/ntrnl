@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 [builtwithnix]: https://builtwithnix.org/
 [downloads-badge]: https://img.shields.io/github/downloads/ntrnl/ntrnl.github.io/total?style=flat-square
 [releases]: https://github.com/ntrnl/ntrnl.github.io/releases
+
+
+[![crates.io][crates.io-badge]][crates.io]
+[![Downloads][downloads-badge]][releases]
+[![Built with Nix][builtwithnix-badge]][builtwithnix]
