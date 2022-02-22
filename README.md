@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-en·tuh·nuhl - /ɛntɜːnl̩/
+en·tuh·nuhl - [ɛntɜːnl̩]
 -->
 
 ---
