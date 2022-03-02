@@ -1,6 +1,12 @@
+ntrnl
+
 > /ɛntɜːnl̩/
 
 <!--
+connected without the whole of something
+
+of neither the inside or outside
+
 ### Hi there 👋
 
 **ntrnl/ntrnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
