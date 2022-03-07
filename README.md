@@ -37,7 +37,7 @@ en·tuh·nuhl - /ɛntɜːnl̩/
 [builtwithnix-badge]: https://img.shields.io/badge/builtwith-nix-7d81f7?style=flat-square
 [builtwithnix]: https://builtwithnix.org/
 [downloads-badge]: https://img.shields.io/github/downloads/ntrnl/ntrnl/total?style=flat-square
-[releases]: https://github.com/ntrnl/ntrnl.github.io/releases
+[releases]: https://github.com/ntrnl/ntrnl/releases
 
 ---
 
