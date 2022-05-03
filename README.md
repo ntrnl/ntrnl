@@ -2,6 +2,10 @@ ntrnl
 
 > /ɛntɜːnl̩/
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ntrnl" width="370"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntrnl" width="350"></a>
+</p>	
 <!--
 connected without the whole of something
 
